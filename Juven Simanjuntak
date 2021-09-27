@@ -3,7 +3,7 @@ In [ ]:
 
 a = 2 # Integer / Bilangan Bulat
 hewan = "Gajah" # String
-# Untuk yang dasar nya tidak ada yang namanya Char
+# Untuk yang dasar nya tidak ada yang namanya Id
 b = 'A' # String
 c = True # Boolean
 d = False # Boolean
